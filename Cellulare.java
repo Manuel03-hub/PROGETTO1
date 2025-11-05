@@ -1,5 +1,5 @@
 //Librerie
-//import java.util.*;
+//import .*;
 public class Cellulare {
 //Attributi
  String Modello;
