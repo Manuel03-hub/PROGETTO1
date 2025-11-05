@@ -1,6 +1,5 @@
-package cellulare;
 //Librerie
-import java.util.*;
+//import java.util.*;
 public class Cellulare {
 //Attributi
  String Modello;
